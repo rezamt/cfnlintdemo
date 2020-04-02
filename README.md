@@ -26,6 +26,14 @@ Currently this repo does not validate for `Warnings`.
     └── vpc.yaml
 ```
 
+## Installation
+``` bash
+
+brew install pre-commit
+
+
+
+```
 ## Simple Template
 ``` .pre-commit-config.yaml
 # .pre-commit-config.yaml
