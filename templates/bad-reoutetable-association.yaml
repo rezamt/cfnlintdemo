@@ -1,4 +1,4 @@
-# cfnlintdemo/templates/bad-routeable-association.yaml
+# cfnlintdemo/templates/bad-routeable-association.yaml sample
 ---
 AWSTemplateFormatVersion: '2010-09-09'
 Description: 'Bad SubnetRouteTableAssociation'
